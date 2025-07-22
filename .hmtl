@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Meu Portifólio</title>
+    <style> 
+        body { font-family: Arial, sans-serif; margin: 0; padding: 40; text-align: center; }
+        header, section, footer { padding: 40px 20px; max-width: 15000px; margin: auto; }
+        header { background-color: #222; color: #fff; text-alling: center; }
+        nav { color: #fff; margin: 0 15px; text-decoration: none; text-align: center; }
+        section h2 { color: #222; }
+        .projeto, .habilidade { margin-bottom: 20px; }
+        footer { background-color: #000; color: #fff; }
+        button { text-align: center; background: #222; }
+        img { width: 150px; height: 150px; border-radius:50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 0 10px rgba }
+        .img-banner
+        {
+            width: 20px;
+            left: 20px;
+        }
+
+        a {
+
+color: #fff;
+        }
+
+
+    </style>
+
+</head>
+<body>
+
+<!-- Cabeçalho -->
+<header>
+    <img src="C:\Users\User\Documents\Minha Pasta Pessoal\Fotos Minha\picofme.png" alt="Minha Foto" class="img">
+<h1> Crystian Jesus de Souza </h1>    
+<p> Desenvolvedor Front-End | Social Midia | Web Design | Automação </p>
+<nav>
+    <a href="#Sobre"></a>
+    <a href="#Projetos"></a>
+    <a href="#Clientes"></a>
+    <a href="#Habilidades"></a>
+    <a href="#Conhecimento"></a>
+    <a href="#Contato"></a>
+
+</header>
+<!-- Seção Sobre -->
+<section id= "Sobre">
+    <h2> Sobre Mim </h2>
+
+    <p> Atuo há mais de 10 anos na área de tecnologia, sempre focado em aplicar estratégias eficientes e inovadoras. Não satisfeito mergulhei também no marketing digital com ênfase em Social Mídia, posicionando inúmeras empresas nas redes sociais com profissionalismo. </p>
+</section>
+
+<!-- Seção Projetos-->
+<section id="Projetos">
+    <h2> Projetos </h2>
+    <a href="https://jcimovsp.com.br/">
+    <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=256,fit=crop,q=95/YleQLBr7p5h7yE4Q/jc-ima3veis-logo01-d9544vOJ40CVn9g4.png" alt="Bannear 1" class="img h1" > </a>
+    <a href="https://rerlimpezas.com.br/">
+     <img src="https://rerlimpezas.com.br/wp-content/uploads/2023/01/cropped-logo2.png" alt="Bannear 1" class="img h2">
+ </a>
+ <br></br>
+ <button> 
+<a href="C:/Users/User/Documents/Meu%20Estudo/MEU%20PORTFOLIO/P%C3%A1gina%20de%20Projetos.html" style="text-decoration:none;">Ver Todos</a>
+ </button>
+    <p> Estão aqui os meus projetos e serviços realizados durante a minha vida profissional</p>
+   
+    
+</section>
+
+<!-- Seção Clientes -->
+<section id="Clientes">
+    <h2>Clientes</h2>
+    <p> abaixo está todos os meus clientes atuais e passados </p>
+    <button>
+    <a href="https://jcimovsp.com.br/" style="text-decoration: none;"> Cliente 1 </a> </button>
+   <button>
+    <a href="https://rerlimpezas.com.br/" style="text-decoration: none;"> Cliente 2 </a> </button>
+     
+</section>
+
+<!-- Seção Habilidade -->
+<section id="Habilidades">
+    <h2> Habilidades em Programação </h2>
+    
+        <li>CSS</li>
+        <li>Javascript</li>
+        
+
+</section>
+
+<!-- Seção Conhecimento -->
+<section id="Conhecimento">
+    <h2> Conhecimento em e-commerce </h2>
+    
+       <li>Wordpress</li>
+       <li>Shopify</li>
+       <li>Nuvem Shop</li>
+       <li>Yampi</li>
+   
+
+</section>
+
+<!-- Seção Conhecimento -->
+<section id="Conhecimento">
+    <h2> Habilidades em Redes Sociais </h2>
+    
+       <li>Criação de Branding</li>
+       <li>Desenvolvimento de Instagram Profissional</li>
+       <li>Paleta de Cor</li>
+       <li>Conteúdo de Engajamento</li>
+       <li>Estratégias Validadas</li>
+       <li>Gerar Valor</li>
+    <li>Criação de Público Quente</li>
+     <li>Tráfego Pago com Facebook ADS e Google ADS</li><br></br>
+     <button>
+    <a href="https://drive.google.com/file/d/12Fd1_zFcKX0xu1cFb4VRSG8CWlx3Zv7C/view?usp=sharing" style="text-decoration: none;"> Ver Serviços </a> </button>
+   
+
+</section>
+
+
+<footer>
+<section2>
+<p>&copy;2025 Crystian Jesus. Todos os direitos reservados</p>
+
+
+</section> 
+
+</footer>
+</body>
+</html>
+
+ 
+
